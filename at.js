@@ -1,7 +1,7 @@
 const nomes = ['Alex', 'Bárbara', 'Carla', 'Daniel', 'Eva']
 
 // Retorna o item do índice/posição passado por parametro
-const paramPositivo = nomes.at(3)
+const paramPositivo = nomes.at(1)
 console.log(paramPositivo)
 
 // Retorno o último item do array, valor negativo
